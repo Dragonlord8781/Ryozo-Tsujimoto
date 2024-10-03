@@ -1,0 +1,46 @@
+body {
+	background-color:#141412;
+	color:#fadc2c;
+	font-family:Palatino, URW Palladio L, serif;
+}
+h1{
+	text-align:center;
+	font-size: 45px;
+}
+h3{
+	text-align: center;
+}
+h2{
+	text-align: center;
+	font-size: 32px;
+}
+p{
+ font-size: 24px;
+}
+.picture{
+	width: 380px;
+    height: 480px;
+    object-fit: cover;
+    border-radius: 100%;
+    background-position: center;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    border: 6px solid #555;
+    border-color: #fadc2c;
+}
+button{
+	font-family:Palatino, URW Palladio L, serif;
+	font-weight:bold;
+	font-size: 16px;
+	color:#8ce951;
+	background-color:#141412;
+	text-align:center;
+	border-width:100%;
+	bordrer-color:#fadc2c;
+	display: block;
+	margin: auto;
+}
+li{
+ font-size: 24px;
+}
